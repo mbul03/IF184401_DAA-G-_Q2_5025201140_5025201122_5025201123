@@ -15,7 +15,7 @@ We chose an issue that was also a game of tic-tac-toe. This game can be solved u
 ### Solution Abstraction
 To begin, let's start by defining what it means to play a perfect game of tic tac toe:
 
-If I play flawlessly, I will either win or draw every game. Furthermore, if I play against another perfect player, I will always draw the game.e.
+If I play flawlessly, I will either win or draw every game. Furthermore, if I play against another perfect player, I will always draw the game.
 
 How might we describe these situations quantitatively? Let's assign a score to the "end game conditions":
 
